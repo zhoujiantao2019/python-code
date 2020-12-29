@@ -1,4 +1,4 @@
-#upate aaron 
+#update aaron 
 import threading
 import time
 import requests
